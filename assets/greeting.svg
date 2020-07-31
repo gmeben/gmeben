@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 40">
+    <defs>
+        <style>
+            #rect-gradient {
+                animation: animateBg 8s linear infinite;
+            }
+            #text-greeting {
+                font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+                text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+            }
+            @keyframes animateBg {
+                to {
+                    transform: translate(0, -600px);
+                }
+            }
+        </style>
+        <linearGradient id="svg_5" gradientTransform="rotate(90)">
+            <stop stop-color="#ff0000" offset="0"/>
+            <stop stop-color="#ffff00" offset="14.2857%"/>
+            <stop stop-color="#00ff00" offset="28.5714%"/>
+            <stop stop-color="#00ffff" offset="42.8571%"/>
+            <stop stop-color="#0000ff" offset="57.1428%"/>
+            <stop stop-color="#ff00ff" offset="71.4285%"/>
+            <stop stop-color="#ff0000" offset="85.7142%"/>
+            <stop stop-color="#ffff00" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <rect id="rect-gradient" fill="url(#svg_5)" width="700" height="700" />
+    <text id="text-greeting" x="4" y="20" fill="#fff">Hi there 👋</text>
+</svg>
