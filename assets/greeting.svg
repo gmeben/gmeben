@@ -10,7 +10,7 @@
             }
             @keyframes animateBg {
                 to {
-                    transform: translate(0, -701.1428571429px);
+                    transform: translate(0, -600px);
                 }
             }
         </style>
