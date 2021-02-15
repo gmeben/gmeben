@@ -26,5 +26,5 @@
         </linearGradient>
     </defs>
     <rect id="rect-gradient" fill="url(#svg_5)" width="818" height="700" />
-    <text id="text-greeting" x="4" y="20" fill="#fff">Hi there 👋</text>
+    <text id="text-greeting" x="4" y="20" fill="#fff" width="818" height="700">Hi there 👋</text>
 </svg>
