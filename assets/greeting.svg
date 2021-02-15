@@ -10,7 +10,7 @@
             }
             @keyframes animateBg {
                 to {
-                    transform: translate(0, -600px);
+                    transform: translate(0, -701.1428571429px);
                 }
             }
         </style>
@@ -25,6 +25,6 @@
             <stop stop-color="#ffff00" offset="100%"/>
         </linearGradient>
     </defs>
-    <rect id="rect-gradient" fill="url(#svg_5)" width="700" height="700" />
+    <rect id="rect-gradient" fill="url(#svg_5)" width="818" height="700" />
     <text id="text-greeting" x="4" y="20" fill="#fff">Hi there 👋</text>
 </svg>
