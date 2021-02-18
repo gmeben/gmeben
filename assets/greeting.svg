@@ -3,8 +3,7 @@
         <style>
             #rect-gradient {
                 animation: animateBg 8s linear infinite;
-                width: 833px;
-                height: 333px;
+                width: 100%;
             }
             #text-greeting {
                 font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
@@ -27,5 +26,5 @@
             <stop stop-color="#ffff00" offset="100%"/>
         </linearGradient>
     </defs>
-    <rect id="rect-gradient" fill="url(#svg_5)" width="100" height="100" />
+    <rect id="rect-gradient" fill="url(#svg_5)" width="100" height="700" />
 </svg>
