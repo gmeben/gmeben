@@ -5,7 +5,7 @@ I generally like to follow [the Angular contributor guidelines](https://github.c
 * **build**: Changes that affect the build system or external dependencies
 * **feat**: A new feature
 * **fix**: A bug fix
-* **ref**: A code change that neither fixes a bug nor adds a feature
+* **refactor**: A code change that neither fixes a bug nor adds a feature
 * **style**: Code changes that do not affect the meaning of the code
 * **test**: Adding missing tests or correcting existing tests
 
