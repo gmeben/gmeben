@@ -2,7 +2,7 @@
 
 I generally like to follow [the Angular contributor guidelines](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#type) by prefacing my commit messages with one of the following:
 
-* **build**: Changes that affect the build system or external dependencies
+* **build**: Changes that affect the build system or external dependencies used
 * **feat**: A new feature
 * **fix**: A bug fix
 * **refactor**: A code change that neither fixes a bug nor adds a feature
