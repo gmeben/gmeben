@@ -16,14 +16,18 @@
             }
         </style>
         <linearGradient id="svg_5" gradientTransform="rotate(90)">
-            <stop stop-color="#ff0000" offset="0"/>
-            <stop stop-color="#ffff00" offset="14.2857%"/>
-            <stop stop-color="#00ff00" offset="28.5714%"/>
-            <stop stop-color="#00ffff" offset="42.8571%"/>
-            <stop stop-color="#0000ff" offset="57.1428%"/>
-            <stop stop-color="#ff00ff" offset="71.4285%"/>
-            <stop stop-color="#ff0000" offset="85.7142%"/>
-            <stop stop-color="#ffff00" offset="100%"/>
+            <stop stop-color="#cf6c5c" offset="0"/>
+            <stop stop-color="#c19b4a" offset="9.090%"/>
+            <stop stop-color="#def2a0" offset="18.181%"/>
+            <stop stop-color="#c6ee4a" offset="27.272%"/>
+            <stop stop-color="#42eca6" offset="36.363%"/>
+            <stop stop-color="#64b3d9" offset="45.454%"/>
+            <stop stop-color="#208ea2" offset="54.545%"/>
+            <stop stop-color="#498ada" offset="63.636%"/>
+            <stop stop-color="#5b73df" offset="72.727%"/>
+            <stop stop-color="#897ed3" offset="81.818%"/>
+            <stop stop-color="#cf5c5c" offset="90.909%"/>
+            <stop stop-color="#c19b4a" offset="100%"/>
         </linearGradient>
     </defs>
     <rect id="rect-gradient" fill="url(#svg_5)" width="700" height="700" />
