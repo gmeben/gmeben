@@ -2,7 +2,7 @@
     <defs>
         <style>
             #rect-gradient {
-                animation: animateBg 12s linear infinite;
+                animation: animateBg 22s linear infinite;
                 width: 100%;
             }
             #text-greeting {
