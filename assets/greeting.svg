@@ -123,7 +123,7 @@
       animation-delay: 0.4s;
     }
   </style>
-  <rect fill="000" height="100" width="100" />
+  <rect fill="#000" height="100%" width="100%" />
   <rect class="csvg-top" y="6.65" />
   <text x="10" y="20">H</text>
   <text x="21.5" y="20">e</text>
