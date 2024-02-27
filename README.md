@@ -1,4 +1,4 @@
-# ![Hi there 👋](https://github.com/gmeben/gmeben/raw/master/assets/greeting.svg)
+# ![Hello](https://github.com/gmeben/gmeben/raw/master/assets/greeting.svg)
 
 I generally like to follow [the Angular contributor guidelines](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#type) by prefacing my commit messages with one of the following:
 
