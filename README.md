@@ -1,12 +1,12 @@
 # ![Hello](https://github.com/gmeben/gmeben/raw/master/assets/greeting.svg)
 
-I generally like to follow [the Angular contributor guidelines](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#type) by prefacing my commit messages with one of the following:
+In my commit message headers, I generally like to follow [the Angular contributor guidelines](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#type) by prefacing my commit summaries with one of the following:
 
 * **build**: Changes that affect the build system or external dependencies used
 * **feat**: A new feature
 * **fix**: A bug fix
 * **refactor**: A code change that neither fixes a bug nor adds a feature
-* **style**: Code changes that do not affect the meaning of the code
+* **style**: Code changes that do not affect the meaning of the code, often involving whitespace
 * **test**: Adding missing tests or correcting existing tests
 
 <!--
