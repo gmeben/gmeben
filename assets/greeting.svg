@@ -95,6 +95,7 @@
     }
 
     .csvg-letter {
+      fill: #0d1117;
       animation-name: renders;
       animation-duration: 1s;
       animation-timing-function: ease-in-out;
