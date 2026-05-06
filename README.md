@@ -9,9 +9,13 @@ In my commit message headers, I generally like to follow [the Angular contributo
 * **style**: Code changes that do not affect the meaning of the code, often involving whitespace
 * **test**: Adding missing tests or correcting existing tests
 
-## Other Pinned Repository
+## Featured Repositories
 
-<https://github.com/MESH-Research/orcid-data-block>
+* [Pilcrow](https://github.com/MESH-Research/Pilcrow)
+* [Linked Open Profiles](https://github.com/MESH-Research/linked-open-profiles)
+* [KCWorks on WP](https://github.com/MESH-Research/kcworks-on-wp)
+* [ORCID Data Block](https://github.com/MESH-Research/orcid-data-block)
+
 
 <!--
 **gmeben/gmeben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
